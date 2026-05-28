@@ -3,14 +3,14 @@
 ## project objective
 
 ## dataset used
-- <a href="https://github.com/YZzz10/HR-Analytics-Dashboard/blob/main/HR%20Data.xlsx">HR Data</a>
+- <a href="https://github.com/YZzz10/Data-Science-Salary-Dashboard/blob/main/Data%20Science%20Salaries%20Dataset.csv">Data Science Salaries Dataset</a>
 
 
 ## questions(kpis)
 -
 -
 -
-- <a href="https://public.tableau.com/app/profile/yixin.zhu3122/viz/HRAnalyticsDashboard_17789752114300/HRAnalyticsDashboard">View Dashboard</a>
+- <a href="https://public.tableau.com/app/profile/yixin.zhu3122/viz/DataScienceSalaryDashboard_17790479186560/Dashboard">View Dashboard</a>
 
 ## Process
 -
@@ -18,7 +18,7 @@
 -
 
 ## Dashboard
-<img width="1600" height="900" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/12e365b4-9bc9-4499-b45e-162017c24d7d" />
+<img width="1600" height="900" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/7b2f4d47-1015-4984-bd70-8c770ef9b37c" />
 
 
 ## Project Insight
