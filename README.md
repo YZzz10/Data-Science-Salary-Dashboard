@@ -6,20 +6,10 @@ The objective of this project is to analyze complaint patterns across time, geog
 ## Dataset Used
 - <a href="">HR Dataset</a>
 
-## KPI Metrics
-- Total number of employees in the dataset (including both active and attrited employees)
-- Number of attrited employees
-- Percentage of attrited employees
-- Number of active employees
-- Average age of all employees (both active and attrited)
-
 ## Visualization Overview
-- **Attrition by Gender** shows gender distribution of employees who have left the company.
-- **Department-wise Attrition** shows the number and percentage of employees who left in each department.
-- **Employee Count by Age Group** shows employee count by age group, with bin size dynamically controlled by a filter.
-- **Job Satisfaction Rating** pivot table displays employee counts by job role (rows) and job satisfaction rating (columns).
-- **Education Field-wise Attrition** shows the education background of attrited employees, sorted in descending order.
-- **Attrition Rate by Gender Across Age Groups** shows the gender distribution of attrited employees across different age groups.
+- **Distribution of Company Size Across Countries** displays the proportion of companies of different sizes across countries.
+- **Distribution of Job Experience Levels Across Countries** displays the proportion of job positions at different experience levels across countries.
+- **Distribution of Employment Types Across Countries** displays the proportion of different employment types across countries.
 
 ## View Dashboard
 <a href="">View Dashboard</a> (Please use “See this in Full Screen” if the dashboard elements overlap.)
