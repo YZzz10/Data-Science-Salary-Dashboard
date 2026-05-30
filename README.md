@@ -10,6 +10,7 @@ The objective of this project is to analyze complaint patterns across time, geog
 - **Company Size Across Countries** shows the proportion of different company sizes across countries.
 - **Job Experience Levels Across Countries** shows the proportion of job positions at different experience levels across countries.
 - **Employment Types Across Countries** shows the proportion of different employment types across countries.
+- Top 10 Employee Countries of Residence shows the top 10 countries where employees are located.
 
 ## View Dashboard
 <a href="">View Dashboard</a> (Please use “See this in Full Screen” if the dashboard elements overlap.)
