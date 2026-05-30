@@ -1,4 +1,4 @@
-# Data Science Salary Dashboard
+# Data Science Salaries Dashboard
 
 ## Project Objective
 The objective of this project is to analyze complaint patterns across time, geography, issue types, response status, and submission channels using an interactive dashboard with key KPI tracking and visual exploration.
