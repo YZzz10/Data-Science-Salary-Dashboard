@@ -1,7 +1,7 @@
 # Data Science Salaries Dashboard
 
 ## Project Objective
-The objective of this project is to analyze complaint patterns across time, geography, issue types, response status, and submission channels using an interactive dashboard with key KPI tracking and visual exploration.
+The objective of this project is to analyze data science salaries across countries, job titles, experience levels, and employment types. It highlights key salary trends in the global job market.
 
 ## Dataset Used
 - <a href="">HR Dataset</a>
