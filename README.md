@@ -7,9 +7,9 @@ The objective of this project is to analyze complaint patterns across time, geog
 - <a href="">HR Dataset</a>
 
 ## Visualization Overview
-- **Distribution of Company Size Across Countries** displays the proportion of companies of different sizes across countries.
-- **Distribution of Job Experience Levels Across Countries** displays the proportion of job positions at different experience levels across countries.
-- **Distribution of Employment Types Across Countries** displays the proportion of different employment types across countries.
+- **Company Size Across Countries** displays the proportion of companies of different sizes across countries.
+- **Job Experience Levels Across Countries** displays the proportion of job positions at different experience levels across countries.
+- **Employment Types Across Countries** displays the proportion of different employment types across countries.
 
 ## View Dashboard
 <a href="">View Dashboard</a> (Please use “See this in Full Screen” if the dashboard elements overlap.)
