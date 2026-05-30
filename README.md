@@ -25,6 +25,8 @@ The objective of this project is to analyze complaint patterns across time, geog
 <a href="">View Dashboard</a> (Please use “See this in Full Screen” if the dashboard elements overlap.)
 
 ## Process
+- Standardized string values in categorical fields using Aliases to ensure consistency across the dataset.
+- 
 - Transformed binary categorical values into numeric encoding to facilitate quantitative analysis.
 - Converted continuous variables into discrete bins to facilitate visualization and analysis.
 
