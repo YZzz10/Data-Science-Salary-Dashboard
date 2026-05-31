@@ -25,9 +25,10 @@ The objective of this project is to analyze data science salaries across countri
 <img width="1600" height="900" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/c11f8383-58ac-445e-abe0-f108bbd96958" />
 
 ## Project Insight
--
--
--
+- 54.7% of data science roles are based in the United States.
+- Russia has the highest average salary at $157,500, followed by the United States at $144,055.
+- 96.87% of data science roles are full-time positions.
+- Higher experience levels (intermediate, senior, and expert) consistently have higher salaries than entry-level positions.
 
 ## Final Conclusion
 -
